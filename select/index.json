@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "風になる",
+  "base_artist": "つじあやの",
+  "createdAt": "2026-03-23T13:57:21.448954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風になる",
+      "artist": "Tsuji Ayano",
+      "has_synced": false,
+      "path": "select/01_風になる_Tsuji_Ayano.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風になる(猫の恩返し)",
+      "artist": "Kyoto Piano Ensemble",
+      "has_synced": false,
+      "path": "select/02_風になる(猫の恩返し)_Kyoto_Piano_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風になる (オルゴール編)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/03_風になる_(オルゴール編)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風になる (acoustic version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/04_風になる_(acoustic_version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風になる (Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/05_風になる_(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風になる(Acoustic Version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/06_風になる(Acoustic_Version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風になる feat.Lefty Hand Cream",
+      "artist": "Kobasolo feat. Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/07_風になる_feat.Lefty_Hand_Cream_Kobasolo_feat._Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風になる",
+      "artist": "つじあやの",
+      "has_synced": false,
+      "path": "select/08_風になる_つじあやの.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "風になる",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/09_風になる_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風になる (Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/10_風になる_(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風になる (Acoustic Version)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/11_風になる_(Acoustic_Version)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "風になる feat.Lefty Hand Cream",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/12_風になる_feat.Lefty_Hand_Cream_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "風になる（Acoustic Version) - Kaze ni Naru(Acoustic Version)",
+      "artist": "Ayano Tsuji",
+      "has_synced": true,
+      "path": "select/13_風になる(Acoustic_Version)_-_Kaze_ni_Naru(Acoustic_Version)_Ayano_Tsuji.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "55. 風になる - つじあやの Ayano Tsuji.wav",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/14_55._風になる_-_つじあやの_Ayano_Tsuji.wav_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "風になる(Acoustic Version／\"猫の恩返し\"エンディングversion)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/15_風になる(Acoustic_Version_猫の恩返し_エンディングversion)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "風になる(Acoustic Version)",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/16_風になる(Acoustic_Version)_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "風になる~みんなでウクレレ編~/つじあやの【Bonus Track】",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/17_風になる~みんなでウクレレ編~_つじあやの【Bonus_Track】_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "風になる",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": true,
+      "path": "select/18_風になる_Lucky_Kilimanjaro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風になる",
+      "artist": "つじあやの",
+      "has_synced": false,
+      "path": "select/pl_01_風になる_つじあやの.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "風になる",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/localdb_01_風になる_つじあやの.lrc",
+      "repo_name": "lHWVOfC41L4"
+    }
+  ]
+}
